@@ -8,7 +8,7 @@
 
       <aside class="main-sidebar sidebar-dark-primary elevation-4">
         <a to="/admin/dashboard" class="brand-link text-center mt-2">
-          <span class="brand-text font-weight-bold">ERP - WHU</span>
+          <span class="brand-text font-weight-bold">ERP - NBK</span>
         </a>
 
         <!-- Sidebar -->
@@ -24,7 +24,7 @@
 
       <footer class="main-footer">
         <div class="float-right d-none d-sm-block"><b>Version</b> 1.0.0</div>
-        <strong>Copyright &copy; 2022 ERP WHU DSN</strong> All rights reserved.
+        <strong>Copyright &copy; 2022 ERP NBK DSN</strong> All rights reserved.
       </footer>
       <aside class="control-sidebar control-sidebar-dark"></aside>
     </div>

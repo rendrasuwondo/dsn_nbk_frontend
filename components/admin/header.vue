@@ -31,7 +31,7 @@
           <b-col class="vertical-center">
             <b-row>
               <b-col>
-                <b class="navbar-title-1">DSN - ERP WHU</b>
+                <b class="navbar-title-1">DSN - ERP NBK</b>
               </b-col></b-row
             ><b-row
               ><b-col>
@@ -120,7 +120,7 @@ export default {
 
       //redirect route login
       this.$router.push({
-        name: 'erp_whu-login',
+        name: 'erp_nbk-login',
       })
     },
   },
