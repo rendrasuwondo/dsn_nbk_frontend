@@ -15,7 +15,11 @@
         href="https://drive.google.com/drive/folders/1ym4KwIPbztn6RA4-osKv6O4FPhv_CcKU"
         target="_blank"
       >
-        <b-img class="img-download" src="img/drive_logo.png" alt="logo"></b-img>
+        <b-img
+          class="img-download"
+          src="\img/drive_logo.png"
+          alt="logo"
+        ></b-img>
         Download Aplikasi <b>eLHM</b>
       </b-button>
 
@@ -24,7 +28,7 @@
         href="https://drive.google.com/drive/u/0/folders/1nZ1ncA1DbqyArap7paiiID-V4iajCM-p"
         target="_blank"
       >
-        <b-img class="img-download" src="img/pdf.png" alt="logo"></b-img>
+        <b-img class="img-download" src="\img/pdf.png" alt="logo"></b-img>
         Tutorial Penggunaan Aplikasi
       </b-button>
 
@@ -33,7 +37,7 @@
         href="https://drive.google.com/drive/u/0/folders/1DCLEMN3Ozy2xeI8d57qPH1j0Mmysicm3"
         target="_blank"
       >
-        <b-img class="img-download" src="img/folder.png" alt="logo"></b-img>
+        <b-img class="img-download" src="\img/folder.png" alt="logo"></b-img>
         Dokumen Teknis
       </b-button>
     </div>
